@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484497174017",
+    "project_id": "excavacionesmansal-a8ca0",
+    "storage_bucket": "excavacionesmansal-a8ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484497174017:android:74dd7efc421855219eda00",
+        "android_client_info": {
+          "package_name": "com.mycompany.excavacionesmansal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8lFvkq5LkcN0h6YGw3ffPEL1I5ulKis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

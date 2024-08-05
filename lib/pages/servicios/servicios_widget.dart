@@ -421,7 +421,7 @@ class _ServiciosWidgetState extends State<ServiciosWidget> {
                               ),
                               child: Padding(
                                 padding: const EdgeInsetsDirectional.fromSTEB(
-                                    30.0, 15.0, 30.0, 0.0),
+                                    30.0, 15.0, 30.0, 25.0),
                                 child: SingleChildScrollView(
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
@@ -628,7 +628,7 @@ class _ServiciosWidgetState extends State<ServiciosWidget> {
                               ),
                               child: Padding(
                                 padding: const EdgeInsetsDirectional.fromSTEB(
-                                    30.0, 15.0, 30.0, 0.0),
+                                    30.0, 15.0, 30.0, 50.0),
                                 child: SingleChildScrollView(
                                   child: Column(
                                     mainAxisSize: MainAxisSize.max,
